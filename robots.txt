@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sinjeong-massage-note.best-samseong-hotplace.xyz/sitemap.xml
